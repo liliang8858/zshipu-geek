@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"  ## 是否开启disqus评论，不要�
   keywords = "golang,go语言,go语言笔记,知识铺,java,android,博客,项目管理,python,软件架构,公众号,小程序"
   description = "知识铺,一个知识分享，积累，整理的地方。"
   busuanzi = true #启用不算子网页统计
-  googleAd = ""  #ca-pub-xxxxxxxxxxxxxx
+  googleAd = "ca-pub-2874221941555456"  #ca-pub-xxxxxxxxxxxxxx
   localSearch = true # 启用本地搜索
   beian = "浙 ICP 备19032823号-1"
 
@@ -61,7 +61,7 @@ disqusShortname = "yourdiscussshortname"  ## 是否开启disqus评论，不要�
 ## 配置 utteranc评论,教程参考 https://utteranc.es/
 [params.utteranc]
   enable = true
-  repo = "your github repo" ##换成自己得
+  repo = "https://github.com/liliang8858/zspblogcomment" ##换成自己得
   issueTerm = "pathname"
   theme = "github-light"
 
